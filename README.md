@@ -6,7 +6,3 @@
     <a href="https://www.youtube.com/farhadsoft"><img src="https://img.shields.io/badge/-Youtube-00ADD8?style=flat-square&logo=Youtube&logoColor=white" /></a>
     <a href="https://www.farhad.su"><img src="https://img.shields.io/badge/-Web-5C2D91?style=flat-square&logo=microsoft-azure&logoColor=white" /></a>
 </p>
-
-## GitHub Stats
-
-![FarhadSoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadsoft&show_icons=true&theme=dark)

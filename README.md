@@ -9,8 +9,7 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/farhadsoft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=farhadsoft&show_icons=true&theme=dark&count_private=true" alt="FarhadSoft's GitHub Stats" />
+![FarhadSoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadsoft&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsoft&theme=dark&layout=compact" 
     alt="FarhadSoft GitHub Top Languages" />
 </a>

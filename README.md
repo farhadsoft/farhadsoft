@@ -10,4 +10,3 @@
 ## GitHub Stats
 
 ![FarhadSoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadsoft&show_icons=true&theme=dark)
-[![FarhadSoft GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsoft)](https://github.com/farhadsoft/github-readme-stats)

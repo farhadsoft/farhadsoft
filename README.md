@@ -9,7 +9,5 @@
 
 ## GitHub Stats
 
-![FarhadSoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadsoft&show_icons=true&theme=radical)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsoft&theme=dark&layout=compact" 
-    alt="FarhadSoft GitHub Top Languages" />
-</a>
+![FarhadSoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhadsoft&show_icons=true&theme=dark)
+[![FarhadSoft GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadsoft)](https://github.com/farhadsoft/github-readme-stats)

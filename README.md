@@ -5,7 +5,5 @@
     <a href="https://www.linkedin.com/in/farhadsu"><img src="https://img.shields.io/badge/-LinkedIn-239120?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.youtube.com/farhadsoft"><img src="https://img.shields.io/badge/-Youtube-00ADD8?style=flat-square&logo=Youtube&logoColor=white" /></a>
     <a href="https://www.farhad.co.ua"><img src="https://img.shields.io/badge/-Web-5C2D91?style=flat-square&logo=microsoft-azure&logoColor=white" /></a>
-</p>
-<p align="center">
-    <a href="https://u8views.com/github/farhadsoft"><img src="https://u8views.com/api/v1/github/profiles/1423681/views/day-week-month-total-count.svg"></a>
+    <a href="https://u8views.com/github/farhadsoft"><img src="https://u8views.com/api/v1/github/profiles/1423681/views/total-count.svg"></a>
 </p>

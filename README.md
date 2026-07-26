@@ -17,10 +17,10 @@
 
 ## 👋 About
 
-Software Engineer with **4+ years of .NET backend development** and **13+ years of Enterprise IT infrastructure and operations**. I build high-performance microservices on **AWS** (ECS, Lambda, DynamoDB) and **Azure**, automate CI/CD pipelines, and apply SRE principles to keep production services healthy under load. My hybrid background — software engineering on top of more than a decade running critical infrastructure — means I design systems that are not just correct, but operable, observable, and reliable from day one.
+Software Engineer with **6+ years of .NET backend development** and **13+ years of Enterprise IT infrastructure and operations**. I build high-performance microservices on **AWS** (ECS, Lambda, DynamoDB) and **Azure**, automate CI/CD pipelines, and apply SRE principles to keep production services healthy under load. My hybrid background — software engineering on top of more than a decade running critical infrastructure — means I design systems that are not just correct, but operable, observable, and reliable from day one.
 
 - 🔭 **Currently** — High-traffic .NET 8 services and AWS serverless workloads
-- 🧱 **Specialties** — C#, ASP.NET Core, microservices, CI/CD, observability, SRE principles
+- 🧱 **Specialities** — C#, ASP.NET Core, microservices, CI/CD, observability, SRE principles
 - 🎯 **Edge** — Unique hybrid DevOps background — ideal for backend + SRE roles
 - 🌍 **Based** — Germany · Remote-friendly (CET)
 - 🗣 **Languages** — English (C1) · German (B1) · Azerbaijani (Native) · Russian (B2)

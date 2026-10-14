@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@farhad.co.ua)
 [![Website](https://img.shields.io/badge/Website-%237B61FF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.farhad.co.ua)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+.NET+%2F+Cloud+%2F+SRE;4%2B+years+.NET+%C2%B7+13%2B+years+Enterprise+IT;AWS+%C2%B7+Azure+%C2%B7+Microservices+%C2%B7+Observability;Open+to+new+opportunities+%E2%80%94+let's+talk)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+.NET+%2F+Cloud+%2F+SRE;6%2B+years+.NET+%C2%B7+15%2B+years+Enterprise+IT;AWS+%C2%B7+Azure+%C2%B7+Microservices+%C2%B7+Observability;Open+to+new+opportunities+%E2%80%94+let's+talk)](https://git.io/typing-svg)
 
 </div>
 
